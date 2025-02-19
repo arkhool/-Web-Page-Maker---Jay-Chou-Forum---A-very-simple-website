@@ -21,17 +21,17 @@
 
 1、更改node.js中的内容，自己用Vs Code中创建的数据库来对应更改
 
-![4ef9e7b59703f8844ea71f5eaf51f47f](C:\Users\33396\Documents\Tencent Files\1409237953\nt_qq\nt_data\Pic\2025-02\Ori\4ef9e7b59703f8844ea71f5eaf51f47f.jpg)
+![4ef9e7b59703f8844ea71f5eaf51f47f](.\readme\4ef9e7b59703f8844ea71f5eaf51f47f.jpg)
 
 创建的数据库需要包含
 
 table：comments
 
-![image-20250219135601933](C:\Users\33396\AppData\Roaming\Typora\typora-user-images\image-20250219135601933.png)
+![屏幕截图 2025-02-19 110626](.\readme\屏幕截图 2025-02-19 110626.png)
 
 table：users
 
-![image-20250219135713082](C:\Users\33396\AppData\Roaming\Typora\typora-user-images\image-20250219135713082.png)
+![image-20250219135713082](.\readme\屏幕截图 2025-02-19 135705.png)
 
 
 
